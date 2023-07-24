@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wrapper .box{
+    height: 190px;
+    width: 130px;
+    padding:140px;
+    background-color: rgb(0, 255, 128);
+    margin: 50px;
+    margin-top:150px;
+    
+}
+.flex-row {
+    display: flex;
+    justify-content: space-between;
+}
+button{
+    padding: 20px;
+   
+}
